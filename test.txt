@@ -1,1 +1,5 @@
 Hello world!
+git add <file>
+git commit -m"word"
+git status
+git checkout
